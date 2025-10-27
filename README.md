@@ -2,7 +2,7 @@
 
 # Chatbots_Gmail
 
-> En este repositorio se agregan notebooks para interactuar con un chatbot y hacer tareas con correos de Gmail
+> En este repositorio se agregan notebooks para interactuar con un chatbot usando la API de openai y hacer tareas con correos de Gmail
 ## Built With
 
 - Python
